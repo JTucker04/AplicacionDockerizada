@@ -1,4 +1,5 @@
-/* Nombre de integrantes:
+//Nombre de integrantes:
+/* 
 Anthony Valencia 
 Julio Tucker 
 Francisco Villon
